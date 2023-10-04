@@ -653,7 +653,7 @@
     (property "Value" "SW_MEC_5E" (id 1) (at 134.62 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" (id 2) (at 134.62 71.12 0)
+    (property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH4xxxxxxV2" (id 2) (at 134.62 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" (id 3) (at 134.62 71.12 0)
@@ -672,7 +672,7 @@
     (property "Value" "SW_MEC_5E" (id 1) (at 134.62 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" (id 2) (at 134.62 93.98 0)
+    (property "Footprint" "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH3xxxxxxV2" (id 2) (at 134.62 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" (id 3) (at 134.62 93.98 0)
@@ -859,10 +859,10 @@
       (reference "Resistor4") (unit 1) (value "R_Small") (footprint "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal")
     )
     (path "/198a1923-290d-40d2-bc88-a08e82b80733"
-      (reference "Start/stop_wepon1") (unit 1) (value "SW_MEC_5E") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
+      (reference "Start/stop_wepon1") (unit 1) (value "SW_MEC_5E") (footprint "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH4xxxxxxV2")
     )
     (path "/535b76cd-fc12-4f09-acee-3d10d4fb3829"
-      (reference "Stop/start_robot1") (unit 1) (value "SW_MEC_5E") (footprint "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx")
+      (reference "Stop/start_robot1") (unit 1) (value "SW_MEC_5E") (footprint "Button_Switch_THT:SW_Push_2P1T_Toggle_CK_PVA1xxH3xxxxxxV2")
     )
     (path "/744173b2-d2c4-4287-b03e-833300701043"
       (reference "U1") (unit 1) (value "Joystick") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
