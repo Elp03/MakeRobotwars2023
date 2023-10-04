@@ -1,0 +1,954 @@
+  1028][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1768
+Robot y:865
+wepon state:1
+wepon pot:0
+[  2039][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:896
+wepon state:1
+wepon pot:0
+[  3050][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:863
+wepon state:1
+wepon pot:0
+[  4061][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:869
+wepon state:1
+wepon pot:0
+[  5072][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:855
+wepon state:1
+wepon pot:0
+[  6083][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:864
+wepon state:1
+wepon pot:0
+[  7094][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1768
+Robot y:855
+wepon state:1
+wepon pot:0
+[  8105][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:866
+wepon state:1
+wepon pot:0
+[  9116][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:850
+wepon state:1
+wepon pot:0
+[ 10127][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:861
+wepon state:1
+wepon pot:0
+[ 11138][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:863
+wepon state:1
+wepon pot:0
+[ 12149][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:851
+wepon state:1
+wepon pot:0
+[ 13160][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1774
+Robot y:880
+wepon state:1
+wepon pot:0
+[ 14171][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1765
+Robot y:851
+wepon state:1
+wepon pot:0
+[ 15182][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:0
+Robot y:864
+wepon state:1
+wepon pot:0
+[ 16193][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:0
+Robot y:848
+wepon state:1
+wepon pot:0
+[ 17204][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:860
+wepon state:1
+wepon pot:0
+[ 18215][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:4095
+Robot y:851
+wepon state:1
+wepon pot:0
+[ 19226][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1782
+Robot y:860
+wepon state:1
+wepon pot:0
+[ 20237][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:870
+wepon state:1
+wepon pot:0
+[ 21248][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:871
+wepon state:1
+wepon pot:0
+[ 22259][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1766
+Robot y:875
+wepon state:1
+wepon pot:0
+[ 23270][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1766
+Robot y:870
+wepon state:1
+wepon pot:0
+[ 24281][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1766
+Robot y:877
+wepon state:1
+wepon pot:0
+[ 25292][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1766
+Robot y:869
+wepon state:1
+wepon pot:0
+[ 26303][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:812
+wepon state:1
+wepon pot:0
+[ 27314][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1766
+Robot y:4095
+wepon state:1
+wepon pot:0
+[ 28325][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1755
+Robot y:4095
+wepon state:1
+wepon pot:0
+[ 29336][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1775
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 30347][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:0
+wepon state:1
+wepon pot:0
+[ 31358][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1774
+Robot y:0
+wepon state:1
+wepon pot:0
+[ 32369][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:0
+wepon state:1
+wepon pot:0
+[ 33380][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:0
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 34391][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:0
+Robot y:0
+wepon state:1
+wepon pot:0
+[ 35402][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1764
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 36413][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:4095
+Robot y:4095
+wepon state:1
+wepon pot:0
+[ 37424][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 38435][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 39446][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 40457][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 41468][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1759
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 42479][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 43490][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 44501][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 45512][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 46523][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 47534][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 48545][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 49556][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 50567][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1909
+wepon state:1
+wepon pot:0
+[ 51578][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 52589][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 53600][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 54611][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 55622][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 56633][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 57644][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 58655][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1776
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 59666][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 60677][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 61688][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 62699][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 63710][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 64721][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 65732][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 66743][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1766
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 67754][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 68765][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 69776][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1766
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 70787][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 71798][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 72809][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 73820][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 74831][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 75842][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 76853][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 77864][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 78875][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1906
+wepon state:1
+wepon pot:0
+[ 79886][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 80897][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1765
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 81908][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 82919][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 83930][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 84941][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1869
+wepon state:1
+wepon pot:0
+[ 85952][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 86963][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 87974][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 88985][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1783
+Robot y:1909
+wepon state:1
+wepon pot:0
+[ 89996][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 91007][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1907
+wepon state:1
+wepon pot:0
+[ 92018][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 93029][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1909
+wepon state:1
+wepon pot:0
+[ 94040][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+ 95051][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+ 96062][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 97073][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+[ 98084][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[ 99095][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1765
+Robot y:1904
+wepon state:1
+wepon pot:0
+[100106][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[101117][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1904
+wepon state:1
+wepon pot:0
+[102128][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1765
+Robot y:1905
+wepon state:1
+wepon pot:0
+[103139][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[104150][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[105161][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[106172][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[107183][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[108194][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1907
+wepon state:1
+wepon pot:0
+[109205][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1905
+wepon state:1
+wepon pot:0
+[110216][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1907
+wepon state:1
+wepon pot:0
+[111227][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1906
+wepon state:1
+wepon pot:0
+[112238][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[113249][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[114260][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1907
+wepon state:1
+wepon pot:0
+[115271][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[116282][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+[117293][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[118304][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[119315][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1764
+Robot y:1905
+wepon state:1
+wepon pot:0
+[120326][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1904
+wepon state:1
+wepon pot:0
+[121337][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[122348][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[123359][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+[124370][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[125381][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1906
+wepon state:1
+wepon pot:0
+[126392][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1907
+wepon state:1
+wepon pot:0
+[127403][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[128414][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1910
+wepon state:1
+wepon pot:0
+[129425][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1905
+wepon state:1
+wepon pot:0
+[130436][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[131447][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+[132458][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1903
+wepon state:1
+wepon pot:0
+[133469][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[134480][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[135491][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[136502][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[137513][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1906
+wepon state:1
+wepon pot:0
+[138524][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[139535][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[140546][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[141557][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1763
+Robot y:1904
+wepon state:1
+wepon pot:0
+[142568][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1765
+Robot y:1881
+wepon state:1
+wepon pot:0
+[143579][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[144590][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[145601][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[146612][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1753
+Robot y:1904
+wepon state:1
+wepon pot:0
+[147623][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[148634][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1905
+wepon state:1
+wepon pot:0
+[149645][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1906
+wepon state:1
+wepon pot:0
+[150656][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[151667][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[152678][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1907
+wepon state:1
+wepon pot:0
+[153689][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1905
+wepon state:1
+wepon pot:0
+[154700][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1904
+wepon state:1
+wepon pot:0
+[155711][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1870
+wepon state:1
+wepon pot:0
+[156722][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1770
+Robot y:1904
+wepon state:1
+wepon pot:0
+[157733][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1769
+Robot y:1904
+wepon state:1
+wepon pot:0
+[158744][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1905
+wepon state:1
+wepon pot:0
+[159755][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1771
+Robot y:1905
+wepon state:1
+wepon pot:0
+[160766][E][esp32-hal-adc.c:158] __analogRead(): Pin 20 is not ADC pin!
+Robot state:1
+Robot x:1767
+Robot y:1921
+wepon state:1
+wepon pot:0
