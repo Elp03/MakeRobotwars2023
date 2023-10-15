@@ -16,9 +16,6 @@
 #define IN2_1 26
 #define IN2_2 32
 
-
-
-
 uint8_t controller_address[] = {0x7C, 0x9E, 0xBD, 0x66, 0x5D, 0x38};
 uint8_t robot_address[] = {0x44, 0x17, 0x93, 0x5E, 0x4A, 0x6C};
 
@@ -46,29 +43,6 @@ void setup() {
   
 
   WiFi.mode(WIFI_STA);
-
-  // Init ESP-NOW
-  if (esp_now_init() != ESP_OK) {
-    Serial.println("Error initializing ESP-NOW");
-    return;
-  }
-
-  // Once ESPNow is successfully Init, we will register for Send CB to
-  // get the status of Trasnmitted packet
-  esp_now_register_send_cb(OnDataSent);
-  
-  // Register peer
-  memcpy(peerInfo.peer_addr, robot_address, 6);
-  peerInfo.channel = 0;  
-  peerInfo.encrypt = false;
-  
-  // Add peer        
-  if (esp_now_add_peer(&peerInfo) != ESP_OK){
-    Serial.println("Failed to add peer");
-    return;
-  }
-  // Register for a callback function that will be called when data is received
-  esp_now_register_recv_cb(OnDataRecv);
 
 }
 
