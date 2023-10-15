@@ -21,7 +21,6 @@ struct struct_message
 {
   int message_robot_x_axis;
   int message_robot_y_axis; 
-  bool message_robot_state;
   bool message_wepon_state;
   int message_wepon_speed;
 };
@@ -32,7 +31,6 @@ struct_message sending_message;
 esp_now_peer_info_t peerInfo;
 
 void print_values(){
-  Serial.print("Robot state:"); Serial.println(inncomming_controller_message.message_robot_state);
   Serial.print("Robot x:"); Serial.println(inncomming_controller_message.message_robot_x_axis);
   Serial.print("Robot y:"); Serial.println(inncomming_controller_message.message_robot_y_axis);
   Serial.print("wepon state:"); Serial.println(inncomming_controller_message.message_wepon_state);

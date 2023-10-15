@@ -1,10 +1,6 @@
 #include "espnow.hpp"
-#include <Arduino.h>
-#include <esp_now.h>
-#include <WiFi.h>
-#include <Wire.h>
 
-void espnow::init(uint8_t reciver_addr){
+void espnow::init(uint8_t* reciver_addr){
      // Init ESP-NOW
   if (esp_now_init() != ESP_OK) {
     Serial.println("Error initializing ESP-NOW");

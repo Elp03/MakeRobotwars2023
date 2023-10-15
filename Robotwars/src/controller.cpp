@@ -15,7 +15,7 @@ void controller::init(){
 void controller::update_data(){
   robot_vals -> x_axis = analogRead(pin_robot_x_axis);
   robot_vals -> y_axis = analogRead(pin_robot_y_axis);
-  weapon_vals -> state= digitalRead(pin_weapon_state);
+  weapon_vals -> state = digitalRead(pin_weapon_state);
   weapon_vals -> speed = analogRead(pin_weapon_speed);
 }
 
