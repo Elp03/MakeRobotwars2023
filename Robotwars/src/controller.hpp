@@ -1,18 +1,16 @@
-
-#define pin_robot_state 39
+#include "esp_now.h"
 #define pin_robot_x_axis 34
 #define pin_robot_y_axis 35
-#define pin_wepon_state 36
-#define pin_wepon_speed 33
+#define pin_weapon_state 36
+#define pin_weapon_speed 33
 
 struct robot_values 
 {
-  bool state;
   int y_axis;
   int x_axis;
 };
 
-struct wepon_values 
+struct weapon_values 
 {
   bool state;
   int speed;
@@ -22,20 +20,22 @@ struct struct_message
 {
   int message_robot_x_axis;
   int message_robot_y_axis; 
-  bool message_robot_state;
-  bool message_wepon_state;
-  int message_wepon_speed;
+  bool message_weapon_state;
+  int message_weapon_speed;
 };
 
 class controller
 {
 private:
-    /* data */
+    robot_values* robot_vals;
+    weapon_values* weapon_vals;
+    struct_message* message;
 public:
-    void init(robot_values* robot, wepon_values* weapon);
-    void update_data(robot_values* robot, wepon_values* wepon);
-    void print_values(robot_values* robot, wepon_values* wepon);
-    void update_struct(robot_values* robot, wepon_values* wepon, struct_message* controller_message);
-    controller();
+    controller(robot_values* obj_robot_vals, weapon_values* obj_weapon_vals, struct_message* obj_message);
+    void init();
+    void update_data();
+    void print_values();
+    void update_struct();
+    esp_err_t send_message(uint8_t* robot_address);
 };
 
