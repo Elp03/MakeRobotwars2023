@@ -13,32 +13,32 @@ void Robot::init()
     rightWheel.init();
 }
 
-void Robot::moveForward()
+void Robot::moveForward(uint8_t speed)
 {
     Serial.println("Moving forward!");
-    leftWheel.turnCW();
-    rightWheel.turnCW();
+    leftWheel.turnCW(speed);
+    rightWheel.turnCW(speed);
 }
 
-void Robot::moveBackward()
+void Robot::moveBackward(uint8_t speed)
 {
     Serial.println("Moving backward!");
-    leftWheel.turnCCW();
-    rightWheel.turnCCW();
+    leftWheel.turnCCW(speed);
+    rightWheel.turnCCW(speed);
 }
 
-void Robot::turnLeft()
+void Robot::turnLeft(uint8_t speed)
 {
     Serial.println("Sbinning left");
-    leftWheel.turnCCW();
-    rightWheel.turnCW();
+    leftWheel.turnCCW(speed);
+    rightWheel.turnCW(speed);
 }
 
-void Robot::turnRight()
+void Robot::turnRight(uint8_t speed)
 {
     Serial.println("Sbinning right!");
-    leftWheel.turnCW();
-    rightWheel.turnCCW();
+    leftWheel.turnCW(speed);
+    rightWheel.turnCCW(speed);
 }
 
 void Robot::stop()

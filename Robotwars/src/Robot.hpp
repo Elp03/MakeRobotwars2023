@@ -1,6 +1,7 @@
 #ifndef ROBOT_H
 #define ROBOT_H
 #include "Motor.hpp"
+#include "Receiver.hpp"
 
 class Robot
 {
@@ -11,10 +12,10 @@ class Robot
     public:
         Robot(uint8_t* EN, uint8_t* IN1, uint8_t* IN2);
         void init();
-        void moveForward();
-        void moveBackward();
-        void turnLeft();
-        void turnRight();
+        void moveForward(uint8_t speed);
+        void moveBackward(uint8_t speed);
+        void turnLeft(uint8_t speed);
+        void turnRight(uint8_t speed);
         void stop();
 };
 

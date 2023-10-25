@@ -17,18 +17,18 @@ void Motor::stop()
     analogWrite(enablePin, 0);
 }
 
-void Motor::turnCCW()
+void Motor::turnCCW(uint8_t speed)
 {
     Serial.println("Turning wheel CCW!");
     digitalWrite(dirCCWPin, HIGH);
     digitalWrite(dirCWPin, LOW);
-    analogWrite(enablePin, 255);
+    analogWrite(enablePin, speed);
 }
 
-void Motor::turnCW()
+void Motor::turnCW(uint8_t speed)
 {
     Serial.println("Turning wheel CW!");
     digitalWrite(dirCCWPin, LOW);
     digitalWrite(dirCWPin, HIGH);
-    analogWrite(enablePin, 255);
+    analogWrite(enablePin, speed);
 }

@@ -12,8 +12,8 @@ class Motor
         Motor(uint8_t ENPin = 0, uint8_t IN1Pin = 0, uint8_t IN2_Pin = 0);
         void init();
         void stop();
-        void turnCCW();
-        void turnCW();
+        void turnCCW(uint8_t speed);
+        void turnCW(uint8_t speed);
 };
 
 #endif /*MOTOR_H*/
