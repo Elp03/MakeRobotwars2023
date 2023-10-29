@@ -5,16 +5,16 @@
 #include <esp_now.h>
 #include <WiFi.h>
 #include <Wire.h>
-#define EN1 12
+#define EN1 2
 #define IN1_1 13
 #define IN1_2 14
-#define EN2 33
+#define EN2 4
 #define IN2_1 26
 #define IN2_2 32
 
 uint8_t broadcast_addr[] = {0x0C, 0x8B, 0x95, 0x76, 0x81, 0xA0};
 
-// uint8_t broadcast_addr[] = {0x7C, 0x9E, 0xBD, 0x66, 0x5D, 0x38};
+//uint8_t broadcast_addr[] = {0x7C, 0x9E, 0xBD, 0x66, 0x5D, 0x38};
 
 struct_message sending_message;
 
@@ -30,35 +30,34 @@ Robot sbinnala(EN_array, IN1_array, IN2_array);
 void setup() {
   sbinnala.init();
   Serial.begin(115200);
+  while(!Serial);
   WiFi.mode(WIFI_STA);
 
+  Serial.print("MAC Address: ");
+  Serial.println(WiFi.macAddress());
   if(esp_now_init() != ESP_OK)
   {
     Serial.println("Error initializing ESP-NOW!");
     return;
   }
 
+  // Register peer
+  memcpy(peerInfo.peer_addr, broadcast_addr, 6);
+  peerInfo.channel = 0;
+  peerInfo.encrypt = false;
+
+  // Add peer
+  if(esp_now_add_peer(&peerInfo)!= ESP_OK)
+  {
+    Serial.println("Failed to add peer!");
+    return;
+  }
+
+  // Register data receive callback
   esp_now_register_recv_cb(OnDataRecv);
 }
 
 void loop() {
-  Serial.println("Sbin sequence started!");
-  uint8_t speed_x = map(incoming_controller_message.message_robot_x_axis, 0, 4095, 0, 255);
-  uint8_t speed_y = map(incoming_controller_message.message_robot_y_axis, 0, 4095, 0, 255);
-  sbinnala.moveForward(speed_y);
-  delay(1000);
-  sbinnala.stop();
-  delay(1000);
-  sbinnala.moveBackward(speed_y);
-  delay(1000);
-  sbinnala.stop();
-  delay(1000);
-  sbinnala.turnLeft(speed_x);
-  delay(1000);
-  sbinnala.stop();
-  delay(1000);
-  sbinnala.turnRight(speed_x);
-  delay(1000);
-  sbinnala.stop();
-  delay(1000);
+  //Serial.println("Sbin sequence started!");
+  sbinnala.moveCommand(&incoming_controller_message);
 }

@@ -6,12 +6,14 @@ void print_values(struct_message *print_info)
     Serial.println(print_info->message_robot_state);
     Serial.print("Robot x: ");
     Serial.println(print_info->message_robot_x_axis);
-    Serial.print("Robot y:");
+    Serial.print("Robot y: ");
     Serial.println(print_info->message_robot_y_axis);
-    Serial.print("Weapon state:");
+    Serial.print("Weapon state: ");
     Serial.println(print_info->message_weapon_state);
-    Serial.print("Weapon pot:");
+    Serial.print("Weapon pot: ");
     Serial.println(print_info->message_weapon_speed);
+    Serial.print("Direction: ");
+    Serial.println(String((int)(print_info->dir)));
 }
 
 void OnDataRecv(const uint8_t *mac, const uint8_t *incomingData, int len)

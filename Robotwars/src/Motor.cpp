@@ -1,34 +1,34 @@
 #include "Motor.hpp"
 
-Motor::Motor(uint8_t ENPin, uint8_t IN1_Pin, uint8_t IN2_Pin): 
+Motor::Motor(uint8_t ENPin, uint8_t IN1_Pin, uint8_t IN2_Pin, int PWM_channel): 
     enablePin{ENPin},
     dirCCWPin{IN1_Pin},
-    dirCWPin{IN2_Pin} {}
+    dirCWPin{IN2_Pin},
+    PWMChannel{PWM_channel} {}
 
 void Motor::init()
 {
-    pinMode(enablePin, OUTPUT);
+    ledcSetup(PWMChannel, 5000, 8);
+    ledcAttachPin(enablePin, PWMChannel);
     pinMode(dirCCWPin, OUTPUT);
     pinMode(dirCWPin, OUTPUT);
 }
 
 void Motor::stop()
 {
-    analogWrite(enablePin, 0);
+    ledcWrite(enablePin, 0);
 }
 
 void Motor::turnCCW(uint8_t speed)
 {
-    Serial.println("Turning wheel CCW!");
     digitalWrite(dirCCWPin, HIGH);
     digitalWrite(dirCWPin, LOW);
-    analogWrite(enablePin, speed);
+    ledcWrite(enablePin, speed);
 }
 
 void Motor::turnCW(uint8_t speed)
 {
-    Serial.println("Turning wheel CW!");
     digitalWrite(dirCCWPin, LOW);
     digitalWrite(dirCWPin, HIGH);
-    analogWrite(enablePin, speed);
+    ledcWrite(enablePin, speed);
 }

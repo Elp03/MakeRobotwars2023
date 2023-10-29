@@ -17,6 +17,7 @@ class Robot
         void turnLeft(uint8_t speed);
         void turnRight(uint8_t speed);
         void stop();
+        void moveCommand(struct_message* msg);
 };
 
 #endif /*ROBOT_H*/

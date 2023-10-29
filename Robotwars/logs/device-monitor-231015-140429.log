@@ -1,0 +1,1809 @@
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x4010e98c  PS      : 0x00060a30  A0      : 0x800d28da  A1      : 0x3ffca3c0  
+A2      : 0x3ffc62d4  A3      : 0x3ffc18ec  A4      : 0x3ffc62d4  A5      : 0x00000000  
+A6      : 0x00060a20  A7      : 0x00000001  A8      : 0x800d533a  A9      : 0x3ffca380  
+A10     : 0x00000000  A11     : 0x00000028  A12     : 0x00000000  A13     : 0x00000001  
+A14     : 0x00000028  A15     : 0x003fffff  SAR     : 0x00000007  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x0000004c  LBEG    : 0x4008935c  LEND    : 0x40089367  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x4010e989:0x3ffca3c0 0x400d28d7:0x3ffca3e0 0x400d2ab3:0x3ffca400 0x400d2aed:0x3ffca420 0x400d5dee:0x3ffca450
+
+
+
+
+ELF file SHA256: 3aeaa3c98b18d265
+
+Rebooting...
+ets Jun  8 2016 00:22:57
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4

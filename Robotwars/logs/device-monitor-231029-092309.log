@@ -1,0 +1,42 @@
+Stopping!
+Sbinning left
+Turning wheel CCW!
+Turning wheel CW!
+Stopping!
+Sbinning right!
+Turning wheel CW!
+Turning wheel CCW!
+Stopping!
+Sbin sequence started!
+Moving forward!
+Turning wheel CW!
+Turning wheel CW!
+Stopping!
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Sbin sequence started!
+Moving forward!
+Turning wheel CW!
+Turning wheel CW!
+Stopping!
+Moving backward!
+Turning wheel CCW!
+Turning wheel CCW!
+Stopping!
+Sbinning left
+Turning wheel CCW!
+Turning wheel CW!
+Stopping!
+Sbinning right!
+Turning wheel CW!
+Turning wheel CCW!
+Stopping!
