@@ -1,0 +1,1283 @@
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x8008eb58  A13     : 0x3ffb2120  
+A14     : 0x00000003  A15     : 0x00060023  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x00060023  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x80000001  A4      : 0x8008eb58  A5      : 0x3ffb2170  
+A6      : 0x00000003  A7      : 0x00060023  A8      : 0x00060023  A9      : 0x00000000  
+A10     : 0x007bf538  A11     : 0x003fffff  A12     : 0x80083dcf  A13     : 0x3ffb2140  
+A14     : 0x00000001  A15     : 0x3ffb0320  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x�ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+E (342) esp_core_dump_flash: Core dump Vх�check failed:
+Calculated checksum='c31e4c85'
+Image checksum='ffffffff'
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+E (342) esp_core_dump_flash: Core dump �х�check failed:
+Calculated checksum='c31e4c85'
+Image checksum='ffffffff'
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060d30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
+MAC Address: 44:17:93:5E:4A:6C
+Guru Meditation Error: Core  1 panic'ed (LoadProhibited). Exception was unhandled.
+
+Core  1 register dump:
+PC      : 0x400d2a51  PS      : 0x00060b30  A0      : 0x800d2cef  A1      : 0x3ffb2250  
+A2      : 0x3ffc3f50  A3      : 0x400839a4  A4      : 0x3ffc65ac  A5      : 0x400839b0  
+A6      : 0x00000081  A7      : 0x000000a0  A8      : 0x8010fa85  A9      : 0x00000000  
+A10     : 0x00000001  A11     : 0x3ffc65b0  A12     : 0x3ffc1908  A13     : 0x3ffc65b0  
+A14     : 0x00000000  A15     : 0x0000005e  SAR     : 0x00000010  EXCCAUSE: 0x0000001c  
+EXCVADDR: 0x00000010  LBEG    : 0x4008933d  LEND    : 0x4008935f  LCOUNT  : 0xffffffff  
+
+
+Backtrace: 0x400d2a4e:0x3ffb2250 0x400d2cec:0x3ffb2270 0x400d62a1:0x3ffb2290
+
+
+
+
+ELF file SHA256: 7b0986473e5f7dd0
+
+Rebooting...
+ets Jul 29 2019 12:21:46
+
+rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13192
+load:0x40080400,len:3028
+entry 0x400805e4
