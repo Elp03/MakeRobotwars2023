@@ -1,0 +1,6445 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+JOYSTICK CALIBRATION!Rotate the joystick around...Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1179
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1181
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1181
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1178
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1178
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1177
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1176
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1177
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1177
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1181
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1183
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1179
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1175
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1175
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 18
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 38
+Robot y: 17
+Weapon state: 0
+Weapon speed: 2675
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 59
+Robot y: 37
+Weapon state: 0
+Weapon speed: 2640
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 79
+Robot y: 58
+Weapon state: 0
+Weapon speed: 2739
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 79
+Weapon state: 0
+Weapon speed: 2966
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3030
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3056
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3111
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3051
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 79
+Robot y: 79
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 58
+Robot y: 58
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 38
+Robot y: 37
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 18
+Robot y: 17
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1172
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1175
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1172
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 107778301
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 215556570
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1176
+Joystick direction: RIGHT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 323334839
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1179
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -427880351
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102080
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1177
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1179
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1176
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -320102117
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: LEFT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -427880386
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 323334804
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1172
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 215556535
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: RIGHT
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 107778266
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 18
+Robot y: 18
+Weapon state: 0
+Weapon speed: 1659
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 38
+Robot y: 38
+Weapon state: 0
+Weapon speed: 1691
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 39
+Robot y: 38
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 38
+Robot y: 38
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 38
+Robot y: 38
+Weapon state: 0
+Weapon speed: 1172
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 17
+Robot y: 18
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 10
+Robot y: 9
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 10
+Robot y: 9
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 10
+Robot y: 9
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 10
+Robot y: -8
+Weapon state: 0
+Weapon speed: 1177
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 10
+Robot y: 109705378
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 219410705
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: BACKWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 329116043
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -420172077
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -310466721
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: FORWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -310466769
+Weapon state: 0
+Weapon speed: 1174
+Joystick direction: FORWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -310466769
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: FORWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -310466769
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: FORWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -310466769
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: FORWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -310466769
+Weapon state: 0
+Weapon speed: 1175
+Joystick direction: FORWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -310466769
+Weapon state: 0
+Weapon speed: 1181
+Joystick direction: FORWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 7
+Robot y: -420172092
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 27
+Robot y: 329116049
+Weapon state: 0
+Weapon speed: 1616
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 27
+Robot y: 219410710
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: BACKWARD
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 27
+Robot y: 109705371
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 27
+Robot y: 32
+Weapon state: 0
+Weapon speed: 1177
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 17
+Robot y: 16
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -4
+Weapon state: 0
+Weapon speed: 1175
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 18
+Robot y: 17
+Weapon state: 0
+Weapon speed: 2685
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 38
+Robot y: 38
+Weapon state: 0
+Weapon speed: 2870
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 59
+Robot y: 59
+Weapon state: 0
+Weapon speed: 3018
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 79
+Robot y: 79
+Weapon state: 0
+Weapon speed: 3133
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3136
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3152
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3134
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3140
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3095
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3066
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3047
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3022
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3013
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3021
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3021
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3039
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3088
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3085
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3077
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3056
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3130
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3127
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3114
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3108
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3095
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3115
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3117
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3108
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3093
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3098
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3105
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3127
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3145
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3136
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3120
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3120
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3107
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3119
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3108
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3111
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3094
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3092
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3088
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3085
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3090
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3085
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3083
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3088
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3098
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3070
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 2897
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 3087
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 2672
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 100
+Robot y: 100
+Weapon state: 0
+Weapon speed: 2711
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 95
+Robot y: 100
+Weapon state: 0
+Weapon speed: 1456
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 75
+Robot y: 100
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 54
+Robot y: 85
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 33
+Robot y: 64
+Weapon state: 0
+Weapon speed: 1172
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 13
+Robot y: 43
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: 22
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 2
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -3
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1172
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1172
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1171
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 2
+Robot y: 3
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 3
+Robot y: 3
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 4
+Robot y: 4
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 5
+Robot y: 5
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 6
+Robot y: 6
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 1
+Robot y: 1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 1
+Robot y: 1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 1
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: 0
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1163
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: 0
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -1
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1162
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1170
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1163
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1164
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1161
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1173
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1163
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1169
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1159
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1166
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -1
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1165
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -3
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1167
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
+Robot state: 0
+Robot x: -2
+Robot y: -2
+Weapon state: 0
+Weapon speed: 1168
+Joystick direction: NEUTRAL
+Error sending the data
+
+Last Packet Send Status:	Delivery Fail
